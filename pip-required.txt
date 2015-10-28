@@ -1,0 +1,5 @@
+Django==1.6.4
+South==0.8.4
+PyYAML
+rdp
+geojson==1.0.7
